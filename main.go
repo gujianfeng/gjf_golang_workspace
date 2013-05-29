@@ -2,7 +2,7 @@
  * Created with IntelliJ IDEA.
  * User: Administrator(Feng)
  * Date: 13-5-27
- * Time: ÏÂÎç3:29
+ * Time: ä¸‹åˆ3:29
  * To change this template use File | Settings | File Templates.
  */
 package main
@@ -12,7 +12,9 @@ import (
 	)
 
 func main() {
-	fmt.Println("ÖĞÎÄÖ§³Ö²»!")
+	fmt.Println("ä¸­æ–‡æ”¯æŒä¸!")
 	s:=123
 	fmt.Printf("%d\n",s)
 }
+
+
