@@ -9,12 +9,11 @@ package main
 
 import (
 	"fmt"
-	)
+)
 
 func main() {
 	fmt.Println("中文支持不!")
-	s:=123
-	fmt.Printf("%d\n",s)
+	s := 123
+	fmt.Printf("%d\n", s)
+	fmt.Println("测试gitbash")
 }
-
-
